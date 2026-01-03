@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalsingh30&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalsingh30" /> </p>
 
-- 🔭 I’m currently working on **Hotel Booking**
+- 🔭 I’m currently working on **Hotel Booking System**
 
 - 👯 I’m looking to collaborate on **Full Stack Project**
 
 - 🤝 I’m looking for help with **MEARN**
 
-- 📫 How to reach me **ujjawalsingh7072@gmail.com**
+- 📫 How to reach me **ujjawalsingh.devv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
